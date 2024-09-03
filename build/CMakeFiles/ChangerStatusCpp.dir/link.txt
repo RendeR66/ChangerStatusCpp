@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ChangerStatusCpp.dir/src/main.cpp.o -o ChangerStatusCpp   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -ldiscord-rpc

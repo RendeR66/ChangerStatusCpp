@@ -1,0 +1,3 @@
+/home/render69/Documents/prodjects/ChangerStatusCpp/build/CMakeFiles/ChangerStatusCpp.dir
+/home/render69/Documents/prodjects/ChangerStatusCpp/build/CMakeFiles/edit_cache.dir
+/home/render69/Documents/prodjects/ChangerStatusCpp/build/CMakeFiles/rebuild_cache.dir
